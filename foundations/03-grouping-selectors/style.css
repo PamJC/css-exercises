@@ -1,0 +1,11 @@
+.first_button {
+    background-color: black;
+    color: white;
+}
+.sec_button {
+    background-color: yellow;
+}
+.first_button, .sec_button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
